@@ -1,14 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20eunchae%20%20Profile!&fontSize=50)
 
-# 🔍고 은 채 🔎
+# 🔍 고 은 채 🔎
 
-- 👋안녕하세요. AI 개발자 지원자 고은채 입니다**
+- 👋안녕하세요. 웹퍼블리셔 지원자 고은채 입니다**
 - 🔥컨택을 원하시면 aaaxxx33@naver.com으로 연락주세요.
 
 # 🔗 LINK
 - **KDT 기업맞춤형 AI-X 교육과정 (824시간)**: Python 기반의 Full-Stack 개발 및 AI 모델링 및 LLM 학습일지와 프로젝트 협업 공간
 [![공부일지](https://img.shields.io/badge/공부일지-0000FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eunchae777/ai)
-[![1차프로젝트](https://img.shields.io/badge/1st_PROJECT[프로젝트명]-FF0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AIX_1stProject/1stProject)
+[![1차프로젝트](https://img.shields.io/badge/1st_PROJECT[프로젝트명]-FF0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/https://github.com/seungdobaek/AIX_1stProject/1stProject)
 [![1차프로젝트](https://img.shields.io/badge/2nd_Project[미정]-33FF33?style=for-the-badge&logo=github&logoColor=black)](https://github.com/eunchae777/2stProject)
 
 
