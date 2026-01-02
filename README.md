@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20eunchae%20Yi's%20Profile!&fontSize=45&fontColor=ffffff&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20Eunchae%20Go's%20Profile!&fontSize=45&fontColor=ffffff&animation=fadeIn)
 
 ## 🔗 학습일지 & 프로젝트 LINK
 > 💡 **KDT 기업맞춤형 AI-X 교육과정 (824시간)**  
