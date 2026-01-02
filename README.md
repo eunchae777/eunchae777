@@ -5,11 +5,11 @@
 > Python 기반 Full-Stack 개발 및 AI 모델링, LLM 학습일지와 프로젝트 협업 공간
 
 <div align="center">
-<a href="공부일지git주소"><img src="https://img.shields.io/badge/📚%20학습일지-E74C3C?style=for-the-badge&logo=github&logoColor=white" width="180"></a>(https://github.com/eunchae777/ai)
+<a href="공부일지git주소"><img src="https://github.com/eunchae777/ai/📚%20학습일지-E74C3C?style=for-the-badge&logo=github&logoColor=white" width="180"></a>
 &nbsp; &nbsp; &nbsp;
-<a href="1차프로젝트git주소"><img src="https://img.shields.io/badge/🎯%201ST%20PROJECT-4A90E2?style=for-the-badge&logo=github&logoColor=white" width="250"></a>(https://github.com/seungdobaek/AIX_1stProject)
+<a href="1차프로젝트git주소"><img src="https://github.com/seungdobaek/AIX_1stProject/🎯%201ST%20PROJECT-4A90E2?style=for-the-badge&logo=github&logoColor=white" width="250"></a>()
 &nbsp; &nbsp; &nbsp;
-<a href="2차프로젝트git주소"><img src="https://img.shields.io/badge/🚀%202ND%20PROJECT-27AE60?style=for-the-badge&logo=github&logoColor=white" width="250"></a>(https://github.com/eunchae777/2stProject)
+<a href="2차프로젝트git주소"><img src="https://img.shields.io/badge/🚀%202ND%20PROJECT-27AE60?style=for-the-badge&logo=github&logoColor=white" width="250"></a>
 </div>
 
 ---
