@@ -132,11 +132,13 @@ HTML, CSS, JavaScript 기반의 **반응형 웹·접근성·레이아웃 안정�
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eunchae777&show_icons=true&theme=default" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunchae777&layout=compact" />
+  <img src="https://komarev.com/ghpvc/?username=eunchae777&color=blueviolet&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/eunchae777?style=social" />
+  <img src="https://img.shields.io/github/stars/eunchae777?style=social" />
 </p>
 
+- 퍼블리싱 · 프론트엔드 · AI 학습 기록 지속 관리
+- 개인 프로젝트 및 팀 프로젝트 병행
 ---
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
