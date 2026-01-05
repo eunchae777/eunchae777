@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20Eunchae%20Go's%20Profile!&fontSize=45&fontColor=ffffff&animation=fadeIn)
 
 ## 👋 About Me
-> Web · Frontend · AI 기반 서비스 구현에 관심이 있으며  
-> **UI/UX 이해를 바탕으로 한 프론트엔드 & AI 융합 개발자**를 지향합니다.  
-> 학습 과정은 재현 가능한 코드와 프로젝트 중심으로 기록합니다.
+Web · Frontend 분야에 관심이 있으며  
+UI/UX 이해를 바탕으로 한 웹 퍼블리셔 및 프론트엔드 개발자를 지향합니다.  
+디자인 의도를 정확히 반영한 마크업과 반응형 웹 구현에 집중하고 있습니다.
 
 ---
 
