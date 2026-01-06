@@ -41,10 +41,7 @@ HTML, CSS, JavaScript 기반의 **반응형 웹·접근성·레이아웃 안정�
     <img src="https://img.shields.io/badge/🎯%201ST%20PROJECT-4A90E2?style=for-the-badge&logo=github&logoColor=white" width="240">
   </a>
   &nbsp;&nbsp;
-  <a href="2ND_PROJECT_URL">
-    <img src="https://img.shields.io/badge/🚀%202ND%20PROJECT-27AE60?style=for-the-badge&logo=github&logoColor=white" width="240">
-  </a>
-</p>
+
 
 ---
 
