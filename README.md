@@ -34,12 +34,19 @@ HTML, CSS, JavaScript 기반의 **반응형 웹·접근성·레이아웃 안정�
 
 <p align="center">
   <a href="https://github.com/eunchae777/ai">
-    <img src="https://img.shields.io/badge/📚%20학습일지-E74C3C?style=for-the-badge&logo=github&logoColor=white" width="180">
+    <img
+      src="https://img.shields.io/badge/📚%20학습일지-E74C3C?style=for-the-badge&logo=github&logoColor=white"
+      style="width:220px; height:40px; object-fit:contain;"
+    >
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/seungdobaek/AIX_1stProject">
-  <img src="https://img.shields.io/badge/🚀%20PROJECT-4A90E2?style=for-the-badge&logo=github&logoColor=white" width="240">
-</a>
+    <img
+      src="https://img.shields.io/badge/🚀%20PROJECT-4A90E2?style=for-the-badge&logo=github&logoColor=white"
+      style="width:220px; height:40px; object-fit:contain;"
+    >
+  </a>
+</p>
 
 
 
