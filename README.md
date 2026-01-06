@@ -37,7 +37,7 @@ HTML, CSS, JavaScript 기반의 **반응형 웹·접근성·레이아웃 안정�
      style="text-decoration:none; display:inline-block;">
     <img
       src="https://img.shields.io/badge/📚%20학습일지-E74C3C?style=for-the-badge&logo=github&logoColor=white"
-      style="width:230px; height:44px; object-fit:contain; display:block;"
+      style="width:230px; height:50px; object-fit:contain; display:block;"
     >
   </a>
   &nbsp;&nbsp;
@@ -45,7 +45,7 @@ HTML, CSS, JavaScript 기반의 **반응형 웹·접근성·레이아웃 안정�
      style="text-decoration:none; display:inline-block;">
     <img
       src="https://img.shields.io/badge/🚀%20PROJECT-4A90E2?style=for-the-badge&logo=github&logoColor=white"
-      style="width:230px; height:44px; object-fit:contain; display:block;"
+      style="width:230px; height:50px; object-fit:contain; display:block;"
     >
   </a>
 </p>
