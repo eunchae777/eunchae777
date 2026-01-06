@@ -38,9 +38,9 @@ HTML, CSS, JavaScript 기반의 **반응형 웹·접근성·레이아웃 안정�
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/seungdobaek/AIX_1stProject">
-    <img src="https://img.shields.io/badge/🎯%201ST%20PROJECT-4A90E2?style=for-the-badge&logo=github&logoColor=white" width="240">
-  </a>
-  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/🚀%20PROJECT-4A90E2?style=for-the-badge&logo=github&logoColor=white" width="240">
+</a>
+
 
 
 ---
