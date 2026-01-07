@@ -34,21 +34,21 @@ HTML, CSS, JavaScript 기반의 **반응형 웹·접근성·레이아웃 안정�
   <a href="https://github.com/eunchae777/ai" style="text-decoration:none;">
     <img
       src="https://img.shields.io/badge/📚%20학습일지-222222?style=for-the-badge&logo=github&logoColor=white"
-      style="height:60px;"
+      style="height:50px;"
     >
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/eunchae777/project" style="text-decoration:none;">
     <img
       src="https://img.shields.io/badge/🚀%20PROJECT-4A90E2?style=for-the-badge&logo=github&logoColor=white"
-      style="height:60px;"
+      style="height:50px;"
     >
   </a>
   &nbsp;&nbsp;
   <a href="https://silver120501.dothome.co.kr" style="text-decoration:none;">
     <img
       src="https://img.shields.io/badge/💼%20PORTFOLIO-7C83FD?style=for-the-badge&logo=github&logoColor=white"
-      style="height:60px;"
+      style="height:50px;"
     >
   </a>
 </p>
