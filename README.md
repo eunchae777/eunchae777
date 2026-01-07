@@ -30,26 +30,19 @@ HTML, CSS, JavaScript 기반의 **반응형 웹·접근성·레이아웃 안정�
 
 ---
 
-## 🔗 Learning Log & Projects
 <p align="center">
-  <a href="https://github.com/eunchae777/ai"
-     style="text-decoration:none; display:inline-block;">
-    <img
-      src="https://img.shields.io/badge/📚%20학습일지-2C2C2C?style=for-the-badge&logo=github&logoColor=white"
-      style="width:230px; height:50px; object-fit:contain; display:block;"
-    >
+  <a href="https://github.com/eunchae777/ai" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/📒%20학습일지-222222?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/seungdobaek/AIX_1stProject"
-     style="text-decoration:none; display:inline-block;">
-    <img
-      src="https://img.shields.io/badge/🚀%20PROJECT-4A90E2?style=for-the-badge&logo=github&logoColor=white"
-      style="width:230px; height:50px; object-fit:contain; display:block;"
-    >
+  &nbsp;
+  <a href="https://github.com/eunchae777/project" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/🚀%20PROJECT-4A90E2?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  &nbsp;
+  <a href="https://silver1205.dothome.co.kr" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/💼%20PORTFOLIO-7C83FD?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
-
-
 
 
 
